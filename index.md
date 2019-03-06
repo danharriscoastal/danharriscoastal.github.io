@@ -11,5 +11,4 @@ The research conducted in the Beachlab is multi-disciplinary and multi-scaled. T
 
 **Research Students**
 
-**Publications**
 [Publications](./publications).
