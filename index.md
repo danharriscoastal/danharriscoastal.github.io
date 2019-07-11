@@ -3,11 +3,10 @@ layout: default
 ---
 **Introduction**
 
-Dr Daniel Harris and the Beachlab are part of the School of Earth and Environmental Sciences at The University of Queensland. Dan focuses on the processes that change coastal and marine systems from the river catchments to the continental shelf (…or wherever there’s water). Beaches and coral reefs are the main focus of this research and Dr Harris is always looking to work with students and researchers who are passionate about the coast.
+I am a geographer and marine scientist who runs a research group "the Beachlab" at The University of Queensland. The focus of my work, and that of my group, is on the processes that change coastal and marine systems over a range of spatial (from one wave to the entire globe) and temporal (seconds to millenia) scales.
 
-The research conducted in the Beachlab is multi-disciplinary and multi-scaled. The active reseaerch projects in the beachlab highlight this focus, they include: the transformation of waves in the surf zones of coral reefs and beaches, quanitfying the coastal proection service provided by coral reefs, investigating the influence of sea level and wave climate on coastal and coral reef evolution during the quaternary, and investigating change in coral reefs and beaches at global scales. We employ a suite of date collection methods and models to conduct this research and are always seeking motivated students and researchers to work and collaborate with if you are interested to know more.
+A work in progress handbook and be found [here](./https://docs.google.com/document/d/1V5W1furB71advLWHzEVlh4uHrdEx8y3HDe0uiU-qUf4/edit?usp=sharing).
 
-Testing how this goes with R.
 
 [News](./news.html)
 
