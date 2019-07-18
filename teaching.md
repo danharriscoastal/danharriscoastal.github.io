@@ -6,7 +6,7 @@ Dan has presented to a number of Geography teachers as part of UQ open days and 
 
 [Presentation at 2019 UQ Earth and Environment Day](https://docs.google.com/presentation/d/1YN4V1CR5ThuJVq1hc8uXHoPUxbwGmr4JYKLkJZYX_9I/edit?usp=sharing)
 
-[Coastal Hazards Discussion Questions and Google Earth files](/asset/coastalrisk.zip)
+[Coastal Hazards Google Earth files](/asset/coastalrisk.zip)
 
 [Coastal Hazards excerise suggestions](https://docs.google.com/document/d/1XkNeJYo_HSbWLaQTEtBxXp721ih8AZpjaPde9k8VyuU/edit?usp=sharing)
 
