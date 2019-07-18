@@ -2,7 +2,7 @@ Resources for Geography Teachers
 
 Dan has presented to a number of Geography teachers as part of UQ open days and national conferences. Below are links to the presentations and teaching resources used in the talks.
 
-[Coastal Hazards Discussion Questions and Google Earth files](/assets/coastalrisk.zip)
+[Coastal Hazards Discussion Questions and Google Earth files](/asset/coastalrisk.zip)
 
 Dan teaches a number of courses at The Unviersity of Queensland and frequently delivers guest lectures in marine and geography courses. Dan is also the geographical sciences coordinator for UQ.
 
