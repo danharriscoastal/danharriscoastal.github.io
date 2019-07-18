@@ -7,6 +7,8 @@ Dan has presented to a number of Geography teachers as part of UQ open days and 
 
 [Coastal Hazards Discussion Questions and Google Earth files](/asset/coastalrisk.zip)
 
+[Coastal Hazards excerise suggestions](https://docs.google.com/document/d/1XkNeJYo_HSbWLaQTEtBxXp721ih8AZpjaPde9k8VyuU/edit?usp=sharing)
+
 Dan teaches a number of courses at The Unviersity of Queensland and frequently delivers guest lectures in marine and geography courses. Dan is also the geographical sciences coordinator for UQ.
 
 Below are a couple of the courses Dan contributes to the most.
