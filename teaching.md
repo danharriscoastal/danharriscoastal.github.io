@@ -14,7 +14,7 @@ Dan has presented to a number of Geography teachers as part of UQ open days and 
 
 Dan teaches a number of courses at The Unviersity of Queensland and frequently delivers guest lectures in marine and geography courses. Dan is also the geographical sciences coordinator for UQ.
 
-Below are a couple of the courses Dan contributes to the most as of 2019.
+Below are some of the courses Dan contributes to the most as of 2019.
 
 Coastal Processes and Management (ENVM3200/7200)
 
