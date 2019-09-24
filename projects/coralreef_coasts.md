@@ -1,13 +1,10 @@
-There are a number of projects looking into the nature of wave breaking and transformation across coral reef and beach systems. This works seeks to understand and explain how waves interact and change coastal ecosystems and geomorphology. Some key papers on this are below:
+The Beachlab investigates the processes that change coral reefs and the coast. A few of the most recent projects are outlined below.
 
-A novel machine learning algorithm for tracking remotely sensed waves in the surf zone
-CE Stringari, DL Harris, HE Power
-Coastal Engineering 147, 149-158
+**1. Coral reefs, climate change, and coastal protection**
 
-Variability of depth-limited waves in coral reef surf zones
-DL Harris, HE Power, MA Kinsela, JM Webster, A Vila-Concejo
-Estuarine, Coastal and Shelf Science 211, 36-44
+The Beachlab has built a suite of tools to investigate wave breaking and transformation across coral reefs. Some of this research focuses solely on the science of waves and sediment transport and how it describes features on coral reefs (e.g. Harris et al. 2014, 2015a and 2018). This work culminated in research that investigated the change in wave processes on coral reefs in a future of higher sea levels and degraded reefs (Harris et al. 2018). We have continued to progress and there are currently a number of student projects that focus on detailing the links between hydrodynamics and coral reef geomorphology and benthic community.
 
-Coral reef structural complexity provides important coastal protection from waves under rising sea levels
-DL Harris, A Rovere, E Casella, H Power, R Canavesio, A Collin, ...
-Science advances 4 (2), eaao4350
+
+**2. Beaches: Morphodynamics, sea level rise, and wave climate**
+
+**3. Wave Climate**
