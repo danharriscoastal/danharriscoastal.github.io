@@ -8,9 +8,15 @@ The Beachlab has built a suite of tools to investigate wave breaking and transfo
 
 **2. Beaches: Morphodynamics and change**
 
+
+
 **3. Hydrodynamics: surf zone processes**
 
+
+
 **4. Holocene sea level change: Coral Reefs**
+
+
 
 **5. Planning, management, and policy of the coasts**
 
