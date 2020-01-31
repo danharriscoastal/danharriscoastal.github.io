@@ -1,4 +1,4 @@
-** PhD Candidates**
+[Dr Daniel Harris](https://researchers.uq.edu.au/researcher/16758)
 
 [Dylan Cowley](https://sees.uq.edu.au/profile/13212/dylan-cowley)
 
