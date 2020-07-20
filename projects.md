@@ -14,6 +14,3 @@ The Beachlab works on the beaches of Queensland from North Stradbroke Island to 
 **3. Hydrodynamics: Surf zone processes**
 
 Dan's has worked on waves since he began his research career. In fact, almost all the research produced by Dan and the Beachlab has some link back to waves on beaches and coral reefs. Waves are the main hydrodynamic process that drives change on the coast but the wave they break and transform towards the coast is facinating on it's own. The way waves move towards the coast and the methods we use to forecast this change is a continuing research program in the Beachlab and involves regular field work on coral reefs and beaches in Queensland.
-
-
-**4. Holocene sea level change: Coral Reefs**
