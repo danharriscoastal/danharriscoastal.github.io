@@ -1,3 +1,7 @@
+Maintain the list below is at best sporadic so feel free to check out the google scholar profile to see the latest journal articles.
+
+Up to 2019:
+
 1.	Stringari, C.E., Harris, D.L., Power, H.E. 2019. A Novel Machine Learning Algorithm for Tracking Remotely Sensed Waves in the Surf Zone. Coastal Engineering (Accepted).
 
 2.	Harris, D.L., Power, H.E., Kinsela, M.A., Webster, J.M., Vila-Concejo, A., 2018. Variability of depth-limited waves in coral reef surf zones. Estuarine, Coastal and Shelf Science, 211, 36-44.
