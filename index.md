@@ -14,6 +14,6 @@ We employ a suite of data collection methods and models to conduct this research
 
 [Research](./projects.html)
 
-[Publications](./publications.html)
+[Media and Publications](./publications.html)
 
 [Teaching](./teaching.html)
