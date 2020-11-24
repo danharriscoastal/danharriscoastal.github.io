@@ -1,11 +1,11 @@
 # People
 
-**Academic Staff**
+## Academic Staff
 
 [Dr Daniel Harris](https://researchers.uq.edu.au/researcher/16758)
 
 
-**PhD Candidates**
+## PhD Candidates
 
 Below is a list of our talented PhD candidates in the lab.
 
@@ -15,7 +15,7 @@ Below is a list of our talented PhD candidates in the lab.
 
 [Atefeh Sansoleimani](https://sees.uq.edu.au/profile/10967/atefeh)
 
-**Reserch Students**
+## Reserch Students
 
 Students undertaking undergraduate or masters projects with the Beachlab as part of their degrees
 
