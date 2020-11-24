@@ -1,5 +1,5 @@
 
-** Media Comment/Press Releases**
+**Media Comment/Press Releases**
 
 A few press releases and news articles. They are a combination of press releases and interviews for our research outputs and comment to the media on coastal issues. There are more interviews and press releases out there for our work but list list provides a short overview where the links are still active.
 
@@ -23,7 +23,7 @@ IFLScience
 [Loss Of Coral Could Threaten Coastlines More Than Sea Level Rise](https://www.iflscience.com/environment/loss-of-coral-could-threaten-coastlines-more-than-sea-level-rise/)
 
 
-** Journal Articles**
+**Journal Articles**
 
 Maintaining the journal article list below is at best sporadic so feel free to check out the [google scholar profile](https://scholar.google.com.au/citations?hl=en&user=D8kJmJ8AAAAJ&view_op=list_works&sortby=pubdate) to see the latest list of science publications. 
 
