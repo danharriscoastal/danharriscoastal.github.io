@@ -1,4 +1,4 @@
-Maintain the list below is at best sporadic so feel free to check out the [google scholar profile](./https://scholar.google.com.au/citations?hl=en&user=D8kJmJ8AAAAJ&view_op=list_works&sortby=pubdate) to see the latest journal articles.
+Maintain the list below is at best sporadic so feel free to check out the [google scholar profile](https://scholar.google.com.au/citations?hl=en&user=D8kJmJ8AAAAJ&view_op=list_works&sortby=pubdate) to see the latest journal articles.
 
 Up to 2019:
 
