@@ -1,7 +1,7 @@
-#Teaching
+# Teaching
 
 
-##Teaching at UQ
+## Teaching at UQ
 
 Dan teaches a number of courses at The Unviersity of Queensland and frequently delivers guest lectures in marine and geography courses. Dan is also the geographical sciences coordinator for UQ.
 
@@ -22,7 +22,7 @@ ERTH3212: Coral Reefs: Past, Present and Future
 A number of PhD and Honours students in the Beachlab tutor for courses in Maths, Remote Sensing and Geography programs.
 
 
-##Resources for Geography Teachers
+## Resources for Geography Teachers
 
 Dan has presented to a number of Geography teachers as part of UQ open days and national conferences. Below are links to the presentations and teaching resources used in the talks (will be updated and completed at the end of 2019).
 
