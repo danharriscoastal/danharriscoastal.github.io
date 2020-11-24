@@ -14,18 +14,18 @@ Dan has presented to a number of Geography teachers as part of UQ open days and 
 
 Dan teaches a number of courses at The Unviersity of Queensland and frequently delivers guest lectures in marine and geography courses. Dan is also the geographical sciences coordinator for UQ.
 
-Below are some of the courses Dan contributes to the most as of 2019.
+New course list for 2021
 
-Coastal Processes and Management (ENVM3200/7200)
+1st Year
+MARS1001: Living Oceans (new as of 2021!)
 
-Marine Science (MARS2014)
+2nd Year:
+GEOS2100: Environmental Systems
+GEOS2105: Geography of Australia
+MARS2014: Marine Science
 
-Geography of Australia (GEOS2015)
-
-Environmental Systems (GEOS2100)
-
-Geology of Coral Reefs (ERTH3212)
-
-Marine and Coastal Environmental Protection (ENVM2002)
+3rd Year and Masters:
+ENVM3200: Coastal Environments and Processes
+ERTH3212: Coral Reefs: Past, Present and Future
 
 A number of PhD and Honours students in the Beachlab tutor for courses in Maths, Remote Sensing and Geography programs.
