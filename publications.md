@@ -1,3 +1,36 @@
+# Media and Publications
+
+
+## Media Comment/Press Releases
+
+A few press releases and news articles. They are a combination of press releases and interviews for our research outputs and comment to the media on coastal issues. There are more interviews and press releases out there for our work but list list provides a short overview where the links are still active.
+
+
+**ABC News**
+
+[Parts of Queensland's coastline identified as global hotspots for sea level rise](https://www.abc.net.au/news/2020-03-22/rising-sea-levels-queensland-gold-coast/12060230)
+
+[What makes Queensland beaches so beautiful? NSW dirt — and longshore drift](https://www.abc.net.au/news/2020-06-13/weather-longshore-drift-queensland-nsw-beaches/12347828)
+
+[More coastal erosion likely as low pressure system brings dangerous surf to east coast](https://www.abc.net.au/news/2020-07-28/what-can-be-done-about-coastal-erosion/12492610)
+
+**Press Releases**
+
+[Dying reefs bigger threat to coasts than rising seas](https://www.uq.edu.au/news/article/2018/03/dying-reefs-bigger-threat-coasts-rising-seas)
+
+[ https://www.sydney.edu.au/news/84.html?newsstoryid=14522(Small drop in sea level had big impact on southern Great Barrier Reef)
+
+**IFLScience**
+
+[Loss Of Coral Could Threaten Coastlines More Than Sea Level Rise](https://www.iflscience.com/environment/loss-of-coral-could-threaten-coastlines-more-than-sea-level-rise/)
+
+
+## Journal Articles
+
+Maintaining the journal article list below is, at best, a sporadic endeavour so feel free to check out the [google scholar profile](https://scholar.google.com.au/citations?hl=en&user=D8kJmJ8AAAAJ&view_op=list_works&sortby=pubdate) to see the latest list of science publications. 
+
+Up to 2019:
+
 1.	Stringari, C.E., Harris, D.L., Power, H.E. 2019. A Novel Machine Learning Algorithm for Tracking Remotely Sensed Waves in the Surf Zone. Coastal Engineering (Accepted).
 
 2.	Harris, D.L., Power, H.E., Kinsela, M.A., Webster, J.M., Vila-Concejo, A., 2018. Variability of depth-limited waves in coral reef surf zones. Estuarine, Coastal and Shelf Science, 211, 36-44.
