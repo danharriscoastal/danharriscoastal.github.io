@@ -18,7 +18,7 @@ A few press releases and news articles. They are a combination of press releases
 
 [Dying reefs bigger threat to coasts than rising seas](https://www.uq.edu.au/news/article/2018/03/dying-reefs-bigger-threat-coasts-rising-seas)
 
-[ https://www.sydney.edu.au/news/84.html?newsstoryid=14522](Small drop in sea level had big impact on southern Great Barrier Reef)
+[https://www.sydney.edu.au/news/84.html?newsstoryid=14522](Small drop in sea level had big impact on southern Great Barrier Reef)
 
 **IFLScience**
 
