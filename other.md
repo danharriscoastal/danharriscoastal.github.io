@@ -26,3 +26,6 @@ I started baking in Germany. I've been exclusively making sourdoughs for a while
 
 ![Sourdough](https://github.com/geo-dan/geo-dan.github.io/blob/master/asset/IMG_3248.JPG)
 Sourdough!
+
+![Garden](https://github.com/geo-dan/geo-dan.github.io/blob/master/asset/IMG_3341.JPG)
+First veggie patch!
