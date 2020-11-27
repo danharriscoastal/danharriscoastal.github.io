@@ -21,14 +21,15 @@ I started out in music before moving into science. It only lasted a year but it'
 
 I started baking in Germany. I've been exclusively making sourdoughs for a while now and using the spare dough for pizzas on the weekends. Just started our first veggie patches this year with a shot of one of the patches starting to take form at the start of spring 2020.
 
-![Sourdough](https://github.com/geo-dan/geo-dan.github.io/blob/master/asset/IMG_3248.JPG)
+
+<img src="/asset/IMG_3248.JPG" alt="">
 Sourdough!
 
-![Bagels](https://github.com/geo-dan/geo-dan.github.io/blob/master/asset/IMG_3357.JPG)
+<img src="/asset/IMG_3357.JPG" alt="">
 Bagels!
 
-![Pizza](https://github.com/geo-dan/geo-dan.github.io/blob/master/asset/IMG_3380.JPG)
+<img src="/asset/IMG_3380.JPG" alt="">
 Friday night home pizzas!
 
-![Garden](https://github.com/geo-dan/geo-dan.github.io/blob/master/asset/IMG_3341.JPG)
+<img src="/asset/IMG_3341.JPG" alt="">
 First veggie patch!
