@@ -6,7 +6,6 @@ If you have any suggestions feel free to let me know!
 
 Dan
 
-
 ## New Music Fridays
 
 Some background....TL:DR links below to some playlists that are great.
@@ -22,12 +21,14 @@ I started out in music before moving into science. It only lasted a year but it'
 
 I started baking in Germany. I've been exclusively making sourdoughs for a while now and using the spare dough for pizzas on the weekends. Just started our first veggie patches this year with a shot of one of the patches starting to take form at the start of spring 2020.
 
-
-
 ![Sourdough](https://github.com/geo-dan/geo-dan.github.io/blob/master/asset/IMG_3248.JPG)
 Sourdough!
 
 ![Bagels](https://github.com/geo-dan/geo-dan.github.io/blob/master/asset/IMG_3357.JPG)
+Bagels!
+
+![Pizza](https://github.com/geo-dan/geo-dan.github.io/blob/master/asset/IMG_3380.JPG)
+Friday night home pizzas!
 
 ![Garden](https://github.com/geo-dan/geo-dan.github.io/blob/master/asset/IMG_3341.JPG)
 First veggie patch!
