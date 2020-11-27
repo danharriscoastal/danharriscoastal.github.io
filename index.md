@@ -17,3 +17,5 @@ We employ a suite of data collection methods and models to conduct this research
 [Media and Publications](./publications.html)
 
 [Teaching](./teaching.html)
+
+[Other interests](./other.html)
