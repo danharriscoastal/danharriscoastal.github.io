@@ -18,4 +18,11 @@ I started out in music before moving into science. It only lasted a year but it'
 [All Songs Considered](https://www.npr.org/sections/allsongs/)
 
 
+## Baking and Gardening
+
+I started baking in Germany. I've been exclusively making sourdoughs for a while now and using the spare dough for pizzas on the weekends. Just started our first veggie patches this year with a shot of one of the patches starting to take form at the start of spring 2020.
+
+
+
 ![Sourdough](https://github.com/geo-dan/geo-dan.github.io/blob/master/asset/IMG_3248.JPG)
+Sourdough!
