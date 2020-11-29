@@ -3,7 +3,7 @@
 
 ## Media Comment/Press Releases
 
-A few press releases and news articles. They are a combination of press releases and interviews for our research outputs and comment to the media on coastal issues. There are more interviews and press releases out there for our work but list list provides a short overview where the links are still active.
+A few press releases and news articles. They are a combination of press releases and interviews for our research outputs and comment to the media on coastal issues. There are more interviews and press releases out there for our work but this list provides a short overview where the links are still active.
 
 
 **ABC News**
