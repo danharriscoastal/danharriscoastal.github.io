@@ -15,10 +15,8 @@ Below is a list of our talented PhD candidates in the lab.
 
 [Atefeh Sansoleimani](https://sees.uq.edu.au/profile/10967/atefeh)
 
-## Reserch Students
+## Research Students
 
 Students undertaking undergraduate or masters projects with the Beachlab as part of their degrees
 
-Lachlan Glaves
-
-Marshal D'Souza
+Jennifer Secker
