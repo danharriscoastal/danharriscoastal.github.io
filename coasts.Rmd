@@ -9,7 +9,7 @@ library(ggplot2) #install.packages("tidyverse")
 
 ## 2021
 
-I will be uploading a few extra pieces of information for the coastal processes course here.
+I will be uploading a few extra pieces of information for the coastal processes course here. I'm just uploading the R Markdown output here so some of the code will be appear for anyone who is interest.
 
 
 ## Beach Survey Transects
