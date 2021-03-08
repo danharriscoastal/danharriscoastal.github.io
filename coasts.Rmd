@@ -14,7 +14,7 @@ I will be uploading a few extra pieces of information for the coastal processes 
 
 ## Beach Survey Transects
 
-Beach transect of Mount Coolum beach
+Beach transect of Mount Coolum Beach
 
 ```{r plot}
 
