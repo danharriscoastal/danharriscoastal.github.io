@@ -8,6 +8,8 @@ The research conducted in the Beachlab is multi-disciplinary and multi-scaled. T
 
 We employ a suite of data collection methods and models to conduct this research and are always seeking motivated students and researchers to work with. A few research topics are listed below in the research link. The website is sporadically updated so feel profile to peruse the research profiles of Dan at [UQ](https://researchers.uq.edu.au/researcher/16758) which contains most of the research output links you might be interested in.
 
+For students who may be interested in research projects within the Beachlab see the list [here](./student_projects.html)
+
 **Links**
 
 [People](./people.html)

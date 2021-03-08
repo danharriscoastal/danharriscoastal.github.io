@@ -1,0 +1,42 @@
+---
+title: "coasts"
+author: "Daniel Harris"
+date: "08/03/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r libraries, include=FALSE}
+library(ggplot2) #install.packages("tidyverse")
+```
+
+## 2021
+
+I will be uploading a few extra pieces of information for the coastal processes course here.
+
+
+## Beach Survey Transects
+
+Beach transect of Mount Coolum beach
+
+```{r plot}
+
+path <- "C:/Users/danle/Google Drive/1. Research/Data/beach_surveys/mt_coolum/transect1.csv"
+
+df <- read.csv(file=path, 
+                    header=TRUE)
+p <- ggplot(data=df, aes(x=X, y=Y, group=date)) + # setting up for multiple surveys
+  geom_line(aes(color=date))+
+  geom_point(aes(color=date)) +
+  xlab("Distance (m)") + ylab("Elevation (m)")
+
+p + theme_bw() + theme(legend.position="none") # remove legend position when multiple surveys start
+
+```
+
+
+
+
