@@ -1,10 +1,5 @@
 # Teaching
 
-## Coastal Processes and Management 2021
-
-[Extra course content](./coasts.html)
-
-
 ## Teaching at UQ
 
 Dan teaches a number of courses at The University of Queensland and is also the Geographical Sciences coordinator for UQ.
