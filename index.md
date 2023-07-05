@@ -2,6 +2,8 @@
 layout: default
 ---
 
+**Welcome to The Beachlab**
+
 The Beachlab is part of the School of the Environment at The University of Queensland. Dr Daniel Harris is the leader of the Beachlab. Dan focuses on the processes that change coastal and marine systems from the river catchments to the continental shelf (…or wherever there’s water).
 
 The goal of the Beachlab is to develop tools, gather data, and provide analyses to help coastlines and coral reefs navigate a warmer world. Our projects are focused on fundamental research questions about how coasts and coral reefs change through time. We also have applied research objectives to support the future management of coastal and coral reef systems.
