@@ -6,8 +6,6 @@ Dan teaches a number of courses at The University of Queensland and is also the 
 
 **Current Course List**
 
-**New course list for 2021**
-
 *1st Year*
 
 MARS1001 (sem 2): Living Oceans
