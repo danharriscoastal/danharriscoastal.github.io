@@ -28,7 +28,7 @@ A few press releases and news articles. They are a combination of press releases
 [Loss Of Coral Could Threaten Coastlines More Than Sea Level Rise](https://www.iflscience.com/environment/loss-of-coral-could-threaten-coastlines-more-than-sea-level-rise/)
 
 
-## Journal Articles
+## Peer Reviewed Journal Articles
 
 Maintaining the journal article list below is, at best, a sporadic endeavour so feel free to check out the [google scholar profile](https://scholar.google.com.au/citations?hl=en&user=D8kJmJ8AAAAJ&view_op=list_works&sortby=pubdate) to see the latest list of science publications. 
 
@@ -75,6 +75,8 @@ Cowley, D. and Harris, D.L., 2020. A review of wave climate trends for the easte
 
 Stringari, C.E., Harris, D.L. and Power, H.E., 2019. A novel machine learning algorithm for track- ing remotely sensed waves in the surf zone. Coastal Engineering, 147, pp.149-158.
 
+**2018**
+
 Harris, D. L., Power, H. E., Kinsela, M. A., Webster, J. M., and Vila-Concejo, A. 2018. Variabil- ity of depth-limited waves in coral reef surf zones. Estuarine, Coastal and Shelf Science, 211, 36-44.
 
 Rovere, A., Casella, E., Harris, D.L., Lorscheid, T., Nandasena, N.A., Dyer, B., Sandstrom, M.R., Stocchi, P., D’Andrea, W.J. and Raymo, M.E., 2018. Reply to Hearty and Tormey: Use the scien- tific method to test geologic hypotheses, because rocks do not whisper. Proceedings of the National Academy of Sciences, 115(13), pp.E2904-E2905.
@@ -85,6 +87,8 @@ Lau, A.A., Terry, J.P., Ziegler, A., Pratap, A. and Harris, D., 2018. Boulder em
 
 Norman, K., Inglis, J., Clarkson, C., Faith, J.T., Shulmeister, J. and Harris, D., 2018. An early colonisation pathway into northwest Australia 70-60,000 years ago. Quaternary Science Reviews, 180, pp.229-239.
 
+**2017**
+
 Rovere, A., Casella, E., Harris, D.L., Lorscheid, T., Nandasena, N.A., Dyer, B., Sandstrom, M.R., Stocchi, P., D’Andrea, W.J. and Raymo, M.E., 2017. Giant boulders and Last Interglacial storm inten- sity in the North Atlantic. Proceedings of the National Academy of Sciences, 114(46), pp.12144-12149.
 
 Gacutan, J., Vila-Concejo, A., Nothdurft, L.D., Fellowes, T.E., Cathey, H.E., Opdyke, B.N., Har- ris, D.L., Hamylton, S., Carvalho, R.C., Byrne, M. and Webster, J.M., 2017. Mg/Ca and Sr/Ca as novel geochemical proxies for understanding sediment transport processes within coral reefs. Estuarine, Coastal and Shelf Science, 197, pp.54-68.
@@ -93,25 +97,35 @@ Fellowes, T.E., Gacutan, J., Harris, D.L., Vila-Concejo, A., Webster, J.M. and B
 
 Casella, E., Collin, A., Harris, D., Ferse, S., Bejarano, S., Parravicini, V., Hench, J.L. and Rovere, A. 2017. Mapping coral reefs using consumer-grade drones and structure from motion photogrammetry techniques. Coral Reefs, 36(1), 269-275.
 
+**2016**
+
 Bryson, M., Duce, S., Harris, D., Webster, J.M., Thompson, A., Vila-Concejo, A. and Williams, S.B., 2016. Geomorphic changes of a coral shingle cay measured using kite aerial photography. Geomorphol- ogy, 270, pp.1-8.
 
 Rovere, A., Raymo, M.E., Vacchi, M., Lorscheid, T., Stocchi, P., Gomez-Pujol, L., Harris, D.L., Casella, E., O’Leary, M.J. and Hearty, P.J., 2016. The analysis of Last Interglacial (MIS 5e) relative sea-level indicators: Reconstructing sea-level in a warmer world. Earth-Science Reviews, 159, pp.404-427.
 
 Dechnik, B., Webster, J.M., Nothdurft, L., Webb, G.E., Zhao, J.X., Duce, S., Braga, J.C., Harris, D.L., Vila-Concejo, A. and Puotinen, M., 2016. Influence of hydrodynamic energy on Holocene reef flat accretion, Great Barrier Reef. Quaternary Research, 85(1), pp.44-53.
 
+**2015**
+
 Harris, D.L., Vila-Concejo, A., Power, H.E., Webster, J.M., 2015a. Spatial variations in wave transfor- mation and sediment entrainment on a coral reef sand apron. Marine Geology 363, 220-229.
 
 Harris, D.L., Webster, J.M., Vila-Concejo, A., 2015b. Late-Holocene sea level fall and turn-off of reef platform carbonate production: Re-thinking bucket fill and Holocene reef growth models. Geology 43 (2), 175-178.
 
+**2014**
+
 Harris, D.L., Vila-Concejo, A., Webster, J.M., 2014. Geomorphology and sediment transport on a submerged back-reef sand apron. Geomorphology, 222, 132-142.
 
 Vila-Concejo, A., Harris, D.L., Power, H.E., Shannon, A.M. and Webster, J.M., 2014. Sediment transport and mixing depth on a coral reef sand apron. Geomorphology, 222, pp.143-150.
+
+**2013**
 
 Gischler, E., Dietrich, S., Harris, D., Webster, J.M. and Ginsburg, R.N., 2013. A comparative study of modern carbonate mud in reefs and carbonate platforms: Mostly biogenic, some precipitated. Sedi- mentary Geology, 292, pp.36-55.
 
 Harris, D.L. and Vila-Concejo, A., 2013. Wave transformation on a coral reef rubble platform. Journal of Coastal Research, (65), pp.506-510.
 
 Vila-Concejo, A., Harris, D.L., Shannon, A.M., Webster, J.M. and Power, H.E., 2013. Coral reef sediment dynamics: evidence of sand-apron evolution on a daily and decadal scale. Journal of Coastal Research, (65), pp.606-611.
+
+**2011**
 
 Vila-Concejo, A., Austin, T.P., Harris, D.L., Hughes, M.G., Short, A.D. and Ranasinghe, R.W., 2011. Estuarine beach evolution in relation to a flood-tide delta. Journal of Coastal Research, pp.190-194.
 
