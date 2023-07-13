@@ -8,8 +8,6 @@
 
 ## PhD Candidates
 
-Below is a list of our talented PhD candidates in the lab.
-
 [Atefeh Sansoleimani](https://sees.uq.edu.au/profile/10967/atefeh)
 
 [Su Zhou](https://environment.uq.edu.au/profile/17814/su-zhou) 
@@ -22,15 +20,13 @@ With Civil Engineering Dongfang Liu ,Wen Deng
 
 With the Marine Spatial Ecology Lab: Hannah Allen, Roima Paewai-Huggins
 
-## Research Students
-
-Students undertaking undergraduate or masters projects with the Beachlab as part of their degrees
+## Research Students (Honours and Masters)
 
 Julien Gueho
 
 Saef Warda
 
-## Past Beachlab Member and Collaborators
+## Past Beachlab Members and Collaborators
 
 Yongjing Mao (UNSW)
 Tania Kenyon (MSEL, UQ)
