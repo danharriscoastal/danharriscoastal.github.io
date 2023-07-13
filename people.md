@@ -16,7 +16,7 @@
 
 Josh Reid
 
-With Civil Engineering Dongfang Liu ,Wen Deng
+With Civil Engineering: Dongfang Liu ,Wen Deng
 
 With the Marine Spatial Ecology Lab: Hannah Allen, Roima Paewai-Huggins
 
