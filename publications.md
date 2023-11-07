@@ -34,11 +34,19 @@ Maintaining the journal article list below is, at best, a sporadic endeavour so 
 
 **2023**
 
+Harris, D.L., Webster, J.M., Vila-Concejo, A., Duce, S., Leon, J.X., Hacker, J., 2023. Defining multi-scale surface roughness of a coral reef using a high-resolution LiDAR digital elevation model. Geomorphology, 439, 108852.
+
+Kenyon, T.M., Harris, D., Baldock, T., Callaghan, D., Doropoulos, C., Webb, G., Newman, S.P., Mumby, P.J., 2023. Mobilisation thresholds for coral rubble and consequences for windows of reef recovery. Biogeosciences Discuss., 2023, 1-28.
+
+Vos, K., Splinter, K.D., Palomar-Vázquez, J., Pardo-Pascual, J.E., Almonacid-Caballer, J., Cabezas-Rabadán, C., Kras, E.C., Luijendijk, A.P., Calkoen, F., Almeida, L.P., Pais, D., Klein, A.H.F., Mao, Y., Harris, D., Castelle, B., Buscombe, D., Vitousek, S., 2023. Benchmarking satellite-derived shoreline mapping algorithms. Communications Earth & Environment, 4(1), 345.
+
+Cowley, D., Harris, D.L., 2023. Wave-driven sediment transport potential on a tropical coast: Implications for the northeastern Australian sediment budget. Marine Geology, 463, 107104.
+
 Kenyon, T. M., Doropoulos, C., Wolfe, K., Webb, G. E., Dove, S., Harris, D.L., and Mumby, P. J. 2023. Coral rubble dynamics in the Anthropocene and implications for reef recovery. Limnology and Oceanography, 68(1), 110-147.
 
-Sansoleimani, A., Webb, G. E., Harris, D. L., Phinn, S. R., and Roelfsema, C. M. 2022. Antecedent topography and active tectonic controls on Holocene reef geomorphology in the Great Barrier Reef. Geomorphology, 413, 108354.
-
 **2022**
+
+Sansoleimani, A., Webb, G. E., Harris, D. L., Phinn, S. R., and Roelfsema, C. M. 2022. Antecedent topography and active tectonic controls on Holocene reef geomorphology in the Great Barrier Reef. Geomorphology, 413, 108354.
 
 Mao, Y., Harris, D.L., Xie, Z. and Phinn, S., 2022. Global coastal geomorphology–integrating earth observation and geospatial data. Remote Sensing of Environment, 278, p.113082.
 
