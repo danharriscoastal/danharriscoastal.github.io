@@ -16,6 +16,10 @@ I started out in music before moving into science. It only lasted a year but it'
 
 [All Songs Considered](https://www.npr.org/sections/allsongs/)
 
+[Paul Mccartneys Got Back Tour](https://open.spotify.com/playlist/6aqFIWz8DCWRoDmY4zAE0m) Having seen him live in one of the more ridiculous trips I have ever done (fly into Newcastle see Paul McCartney fly back to work the next morning) I think everyone needs some McCartney/Beatles in their lives.
+
+
+
 
 ## Baking and Gardening
 
