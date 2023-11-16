@@ -2,18 +2,7 @@ The Beachlab is a research group devoted to understanding coastal processes. The
 
 The research conducted in the Beachlab is multi-disciplinary and multi-scaled. The active research projects in the beachlab highlight this focus, they include: the transformation of waves in the surf zones of coral reefs and beaches, modelling wave climate in coral reef settings over days to decades, quanitfying the coastal protection service provided by coral reefs, investigating the influence of sea level and wave climate on coastal and coral reef evolution during the quaternary, using machine learning and satellite remote sensing to understand change in coral reefs and beaches at global scales, and investigating the role of coral rubble in the long-term dyanmics and recovery of coral reef ecosystems. 
 
-A few topics are outlined below but check out the publications section to see the wide array of work we are involved with. 
 
-**1. Coral reefs, climate change, and coastal protection**
+**Reef Restoration and Adaptation Program (RRAP) – Rubble Stabilisation.**
+The mobility of coral rubble is a primary factor in governing the recruitment of new corals and recovery of coral reefs after major disturbances such as bleaching and cyclone event. The more mobile the rubble the less likely coral recruits will survive. However, there is a paucity of research and knowledge on the dynamics and generation of coral rubble. This project seeks to understand the in situ processes driving coral rubble transport and is part of the broader RRAP - Rubble Stablisation project led by Prof. Peter Mumby and Prof. Tom Baldock with PhD candidate Su Zhou driving the core research in the project.
 
-This research is focused on understanding wave breaking, sediment transport, and geomorphic change on coral reefs (e.g. Harris et al. 2014, 2015a and 2018). This research has also resulted in work that investigated the change in wave processes on coral reefs in a future of higher sea levels and degraded reefs (Harris et al. 2018, Science Advances).
-
-
-**2. Beaches: Morphodynamics and change**
-
-The Beachlab works on the beaches of Queensland from North Stradbroke Island to Cooktown. We collect coastal data in the field and through aerial images and satellites and use numerical models that help investigate change on the coast. The projects of Dylan Cowley and Yongjing Mao are driving this research and both are working on building an understanding of change on the coast and how a change to climate drivers and sea level will impact the coast in the future.
-
-
-**3. Hydrodynamics: Surf zone processes**
-
-Daniel has worked on waves since he began his research career. In fact, almost all the research produced by Dan and the Beachlab has some link back to waves on beaches and coral reefs. Waves are the main hydrodynamic process that drives change on the coast but the wave they break and transform towards the coast is fascinating on it's own. The way waves move towards the coast and the methods we use to forecast this change is a continuing research program in the Beachlab and involves regular field work on coral reefs and beaches in Queensland.
