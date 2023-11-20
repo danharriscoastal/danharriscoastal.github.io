@@ -18,6 +18,8 @@ For students who may be interested in research projects within the Beachlab see 
 
 [Research](./projects.html)
 
+[Data Sets](./data.html)
+
 [Media and Publications](./publications.html)
 
 [Teaching](./teaching.html)
