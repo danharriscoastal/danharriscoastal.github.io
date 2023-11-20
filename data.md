@@ -18,6 +18,7 @@ Shoreline retreat analysis using remote sensing and machine learning methods.
 
 **Coastal models and Surf Zone data**
 
-[Wave height to water depth ratios for coral reef flats from different coral reef surf zones](https://doi.pangaea.de/10.1594/PANGAEA.891296)
+[XBeach models for Moorea and Tahiti use in Harris et al. (2018a)](https://figshare.com/articles/dataset/XBeach_files_zip/4757104)
 
-[XBeach models for Moorea and Tahiti use in Harris et al. (2018)](https://figshare.com/articles/dataset/XBeach_files_zip/4757104)
+[Wave height to water depth ratios for coral reef flats from different coral reef surf zones in Harris et al. (2018b)](https://doi.pangaea.de/10.1594/PANGAEA.891296)
+

@@ -85,11 +85,11 @@ Stringari, C.E., Harris, D.L. and Power, H.E., 2019. A novel machine learning al
 
 **2018**
 
-Harris, D. L., Power, H. E., Kinsela, M. A., Webster, J. M., and Vila-Concejo, A. 2018. Variabil- ity of depth-limited waves in coral reef surf zones. Estuarine, Coastal and Shelf Science, 211, 36-44.
+Harris, D. L., Power, H. E., Kinsela, M. A., Webster, J. M., and Vila-Concejo, A. 2018b. Variabil- ity of depth-limited waves in coral reef surf zones. Estuarine, Coastal and Shelf Science, 211, 36-44.
 
-Rovere, A., Casella, E., Harris, D.L., Lorscheid, T., Nandasena, N.A., Dyer, B., Sandstrom, M.R., Stocchi, P., D’Andrea, W.J. and Raymo, M.E., 2018. Reply to Hearty and Tormey: Use the scien- tific method to test geologic hypotheses, because rocks do not whisper. Proceedings of the National Academy of Sciences, 115(13), pp.E2904-E2905.
+Rovere, A., Casella, E., Harris, D.L., Lorscheid, T., Nandasena, N.A., Dyer, B., Sandstrom, M.R., Stocchi, P., D’Andrea, W.J. and Raymo, M.E., 2018. Reply to Hearty and Tormey: Use the scientific method to test geologic hypotheses, because rocks do not whisper. Proceedings of the National Academy of Sciences, 115(13), pp.E2904-E2905.
 
-Harris D.L, Rovere, A., Casella, E., Power, H.E., Canavesio, R., Collin, A., Pomeroy, A.W., and Parravicini, V. Coral reef structural complexity provides important coastal protection from waves un- der rising sea levels. Science Advances. Science advances 4 (2), eaao4350.
+Harris D.L, Rovere, A., Casella, E., Power, H.E., Canavesio, R., Collin, A., Pomeroy, A.W., and Parravicini, V. Coral reef structural complexity provides important coastal protection from waves under rising sea levels. 2018a. Science Advances. Science advances 4 (2), eaao4350.
 
 Lau, A.A., Terry, J.P., Ziegler, A., Pratap, A. and Harris, D., 2018. Boulder emplacement and re- mobilisation by cyclone and submarine landslide tsunami waves near Suva City, Fiji. Sedimentary Geology, 364, pp.242-257.
 
