@@ -24,4 +24,6 @@ For students who may be interested in research projects within the Beachlab see 
 
 [Teaching](./teaching.html)
 
+[Available Honours and Masters Projects](./student_projects)
+
 [Other interests](./other.html)
