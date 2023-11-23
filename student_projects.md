@@ -1,7 +1,3 @@
-The Beachlab is a research group devoted to understanding coastal processes. The energy and material that moves through the coastal zone over time. The time frames we investigate stretch from minutes to millennia, covering short-term transformation of individual waves to glacial/interglacial cycles of sea level change and coral reef growth. 
-
-The research conducted in the Beachlab is multi-disciplinary and multi-scaled. The active research projects in the beachlab highlight this focus, they include: the transformation of waves in the surf zones of coral reefs and beaches, modelling wave climate in coral reef settings over days to decades, quanitfying the coastal protection service provided by coral reefs, investigating the influence of sea level and wave climate on coastal and coral reef evolution during the quaternary, using machine learning and satellite remote sensing to understand change in coral reefs and beaches at global scales, and investigating the role of coral rubble in the long-term dyanmics and recovery of coral reef ecosystems. 
-
 There are student projects attached to the research activities in the [Research](./projects.html) page. However, below are a few that advance the main research themes of the Beachlab or build off past projects.
 
 
