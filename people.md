@@ -29,9 +29,11 @@ Avigna Kumar
 ## Past Beachlab Members and Collaborators
 
 PhD Students
+
 Yongjing Mao (UNSW)
 Tania Kenyon (MSEL, UQ)
 
 Honours
+
 Julien Gueho
 Saef Warda
