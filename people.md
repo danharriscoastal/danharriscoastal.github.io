@@ -2,6 +2,8 @@
 
 ## Academic Staff
 
+<img src="/asset/IMG_0823.jpg" alt="">
+
 [Dr Daniel Harris](https://researchers.uq.edu.au/researcher/16758)
 
 [Dr Dylan Cowley](https://sees.uq.edu.au/profile/13212/dylan-cowley)
