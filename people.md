@@ -24,8 +24,10 @@ With the Marine Spatial Ecology Lab: Hannah Allen, Roima Paewai-Huggins
 
 ## Research Students (Honours and Masters)
 
-Aponi Lngsford-Mann
+Aponi Langsford-Mann
+
 Alyssa Silbey
+
 Avigna Kumar
 
 ## Past Beachlab Members and Collaborators
