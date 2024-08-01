@@ -1,10 +1,15 @@
 # People
 
 [Dr Daniel Harris](https://researchers.uq.edu.au/researcher/16758)
+
 Senior Lecturer
+
 School of the Environment
+
 The University of Queensland
+
 St Lucia QLD 4072
+
 Email: daniel.harris@uq.edu.au
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](asset/IMG_0823.JPG)
