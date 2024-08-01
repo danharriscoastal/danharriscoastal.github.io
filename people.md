@@ -2,7 +2,7 @@
 
 ## Academic Staff
 
-<img src="/asset/IMG_0823.jpg" alt="">
+<img src="./asset/IMG_0823.jpg" alt="">
 
 [Dr Daniel Harris](https://researchers.uq.edu.au/researcher/16758)
 
