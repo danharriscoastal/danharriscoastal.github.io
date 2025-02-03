@@ -115,7 +115,7 @@ Benavente, J., Harris, D.L., Austin, T.P. and Vila-Concejo, A., 2011. Medium ter
 
 ## Media Comment/Press Releases
 
-A few press releases and news articles. They are a combination of press releases and interviews for our research outputs and comment to the media on coastal issues. There are more interviews and press releases out there for our work but this list provides a short overview (hopefully links are still active). I don't really actively seek much media outreach nowadays given the time it can take out (I discovered recently I am those people who prefers an afternoon in MATLAB) but there usually one or two interviews a year. I'm actually quite hard to find since Daniel/Dan Harris is a super common name and you are more likely to find the AFL Footballer, the Cricketer, or the American News Presenter turned Meditation influencer.
+A few press releases and news articles. They are a combination of press releases and interviews for our research outputs and comment to the media on coastal issues. There are more interviews and press releases out there for our work but this list provides a short overview (hopefully links are still active). I don't really actively seek much media outreach nowadays given the time it can take out (I discovered recently I am those people who prefers an afternoon in MATLAB) but there usually one or two interviews a year. I'm actually quite hard to find since Daniel/Dan Harris is a super common name and you are more likely to find the AFL Footballer, the Cricketer, or the American News Presenter turned Meditation writer/podcaster.
 
 **The Conversation**
 
