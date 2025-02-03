@@ -1,33 +1,5 @@
 # Media and Publications
 
-
-## Media Comment/Press Releases
-
-A few press releases and news articles. They are a combination of press releases and interviews for our research outputs and comment to the media on coastal issues. There are more interviews and press releases out there for our work but this list provides a short overview where the links are still active.
-
-**The Conversation**
-
-[Why some beaches, including in Queensland, are getting bigger despite rising sea levels](https://theconversation.com/why-some-beaches-including-in-queensland-are-getting-bigger-despite-rising-sea-levels-180964)
-
-**ABC News**
-
-[Parts of Queensland's coastline identified as global hotspots for sea level rise](https://www.abc.net.au/news/2020-03-22/rising-sea-levels-queensland-gold-coast/12060230)
-
-[What makes Queensland beaches so beautiful? NSW dirt — and longshore drift](https://www.abc.net.au/news/2020-06-13/weather-longshore-drift-queensland-nsw-beaches/12347828)
-
-[More coastal erosion likely as low pressure system brings dangerous surf to east coast](https://www.abc.net.au/news/2020-07-28/what-can-be-done-about-coastal-erosion/12492610)
-
-**Press Releases**
-
-[Dying reefs bigger threat to coasts than rising seas](https://www.uq.edu.au/news/article/2018/03/dying-reefs-bigger-threat-coasts-rising-seas)
-
-[Small drop in sea level had big impact on southern Great Barrier Reef](https://www.sydney.edu.au/news/84.html?newsstoryid=14522)
-
-**IFLScience**
-
-[Loss Of Coral Could Threaten Coastlines More Than Sea Level Rise](https://www.iflscience.com/environment/loss-of-coral-could-threaten-coastlines-more-than-sea-level-rise/)
-
-
 ## Peer Reviewed Journal Articles
 
 Maintaining the journal article list below is, at best, a sporadic endeavour so feel free to check out the [google scholar profile](https://scholar.google.com.au/citations?hl=en&user=D8kJmJ8AAAAJ&view_op=list_works&sortby=pubdate) to see the latest list of science publications. 
@@ -140,4 +112,39 @@ Vila-Concejo, A., Austin, T.P., Harris, D.L., Hughes, M.G., Short, A.D. and Rana
 Harris, D.L., Webster, J.M., De Carli, E.V. and Vila-Concejo, A., 2011. Geomorphology and morpho- dynamics of a sand apron, One Tree reef, southern Great Barrier Reef. Journal of Coastal Research, pp.760-764.
 
 Benavente, J., Harris, D.L., Austin, T.P. and Vila-Concejo, A., 2011. Medium term behavior and evolution of a beach cusps system in a low energy beach, Port Stephens, NSW, Australia. Journal of Coastal Research, pp.170-174.
+
+## Media Comment/Press Releases
+
+A few press releases and news articles. They are a combination of press releases and interviews for our research outputs and comment to the media on coastal issues. There are more interviews and press releases out there for our work but this list provides a short overview (hopefully links are still active). I don't really actively seek much media outreach nowadays given the time it can take out (I discovered recently I am those people who prefers an afternoon in MATLAB) but there usually one or two interviews a year. I'm usually quite hard to find since Daniel/Dan Harris is a super common names and you are more likely to find the AFL Footballer, the Cricketer, or the American News Presenter turned Meditation influencer.
+
+**The Conversation**
+
+[Why some beaches, including in Queensland, are getting bigger despite rising sea levels](https://theconversation.com/why-some-beaches-including-in-queensland-are-getting-bigger-despite-rising-sea-levels-180964)
+
+**Some Queensland Outlets**
+
+[Queensland’s ‘other sea change’ is altering the coastline forever](https://www.brisbanetimes.com.au/national/queensland/queensland-s-other-sea-change-is-altering-the-coastline-forever-20220120-p59ptw.html)
+
+**ABC News**
+
+[Parts of Queensland's coastline identified as global hotspots for sea level rise](https://www.abc.net.au/news/2020-03-22/rising-sea-levels-queensland-gold-coast/12060230)
+
+[What makes Queensland beaches so beautiful? NSW dirt — and longshore drift](https://www.abc.net.au/news/2020-06-13/weather-longshore-drift-queensland-nsw-beaches/12347828)
+
+[More coastal erosion likely as low pressure system brings dangerous surf to east coast](https://www.abc.net.au/news/2020-07-28/what-can-be-done-about-coastal-erosion/12492610)
+
+**Press Releases**
+
+[Dying reefs bigger threat to coasts than rising seas](https://www.uq.edu.au/news/article/2018/03/dying-reefs-bigger-threat-coasts-rising-seas)
+
+[Small drop in sea level had big impact on southern Great Barrier Reef](https://www.sydney.edu.au/news/84.html?newsstoryid=14522)
+
+**A few random science blogs**
+
+[Great Barrier Reef decline could impact Queensland's coastal erosion](https://phys.org/news/2023-08-great-barrier-reef-decline-impact.html#google_vignette) 
+
+[Loss Of Coral Could Threaten Coastlines More Than Sea Level Rise](https://www.iflscience.com/environment/loss-of-coral-could-threaten-coastlines-more-than-sea-level-rise/)
+
+
+
 
