@@ -31,7 +31,7 @@ Josh Reid
 
 With Civil Engineering: Dongfang Liu ,Wen Deng
 
-With the Marine Spatial Ecology Lab: Hannah Allen, Roima Paewai-Huggins
+With the Marine Spatial Ecology Lab: Greta Sartori, Hannah Allen, Roima Paewai-Huggins
 
 ## Research Students (Honours and Masters)
 
