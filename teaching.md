@@ -9,15 +9,11 @@ Dan teaches a number of courses at The University of Queensland and is also the 
 
 **Current Course List**
 
-*1st Year*
-
-SCIE1200 (sem 2): Introduction to Science Research
-
 *2nd Year:*
 
 MARS2001 (Sem 1): Practical Marine Science
 
-GEOS2103 (Sem 2): Biogeography and Geomorphology
+GEOS2100 (Sem 1): Biogeography and Geomorphology
 
 GEOS2105 (Sem 2): Geography of Australia
 
@@ -25,4 +21,4 @@ GEOS2105 (Sem 2): Geography of Australia
 
 ENVM3200/7200 (Sem 1): Coastal Environments and Processes (coordinator) (with Dr Dylan Cowley)
 
-GEOS7103 (Sem 2): Biogeography and Geomorphology
+ERTH3212 (Sem 2): Coral Reefs: Past, Present, Future
